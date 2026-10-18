@@ -1,4 +1,4 @@
-# Repo_nand-to-tetris_jiya-garg
+# Repo_nand-to-tetris_ansh_bhoriya
 #Not gate
 CHIP Not {
     IN in;
